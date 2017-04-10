@@ -1,0 +1,17 @@
+{
+  "name": "version-your-files",
+  "authors": [
+    "wengpengfeijava <466077335@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
